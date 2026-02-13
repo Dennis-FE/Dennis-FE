@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **[Something]**
 - 👯 I'm looking to collaborate on **[Someone]**
 - 💬 Ask me about **[Nothing]**
-- 📫 How to reach me: [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2JYBn5kP)
+- 📫 How to reach me: **[Discord](https://discord.gg/2JYBn5kP)**
 - ⚡ Fun fact: **[Not Funny]**
 
 ## 🛠️ Tech Stack
