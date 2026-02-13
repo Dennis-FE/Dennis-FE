@@ -29,8 +29,8 @@ const operator = {
 
 ### � COMMUNICATIONS
 
-[![Discord](https://img.shields.io/badge/SECURE_COMMS-Discord-003366?style=for-the-badge&logo=discord&logoColor=00A8CC&labelColor=0D1117)](https://discord.gg/2JYBn5kP)
-[![GitHub](https://img.shields.io/badge/OPERATIONS-GitHub-003366?style=for-the-badge&logo=github&logoColor=00A8CC&labelColor=0D1117)](https://github.com/Dennis-FE)
+<a href="https://discord.gg/2JYBn5kP" target="_blank"><img src="https://img.shields.io/badge/SECURE_COMMS-Discord-003366?style=for-the-badge&logo=discord&logoColor=00A8CC&labelColor=0D1117" alt="Discord"></a>
+<a href="https://github.com/Dennis-FE" target="_blank"><img src="https://img.shields.io/badge/OPERATIONS-GitHub-003366?style=for-the-badge&logo=github&logoColor=00A8CC&labelColor=0D1117" alt="GitHub"></a>
 
 </div>
 
