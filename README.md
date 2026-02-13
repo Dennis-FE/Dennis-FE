@@ -15,14 +15,12 @@
 
 [Write 2-3 sentences about yourself, your passions, and what you're currently working on]
 
-- 🔭 I'm currently working on **[Current Project]**
-- 🌱 I'm currently learning **[Technologies/Skills]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your Expertise Areas]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
-
----
+- 🔭 I'm currently working on **[Somewhere]**
+- 🌱 I'm currently learning **[Something]**
+- 👯 I'm looking to collaborate on **[Someone]**
+- 💬 Ask me about **[Nothing]**
+- 📫 How to reach me: [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2JYBn5kP)
+- ⚡ Fun fact: **[Not Funny]**
 
 ## 🛠️ Tech Stack
 
