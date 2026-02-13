@@ -53,9 +53,9 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dennis-FE&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dennis-FE&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
   
-  ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dennis-FE&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-FE&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dennis-FE&theme=radical&hide_border=true)
 </div>
