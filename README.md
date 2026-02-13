@@ -12,7 +12,8 @@
 
 ```typescript
 const dennis = {
-    location: "Somewhere Cool �",
+    currentTeam: "Task Force 🎯",
+    location: "Somewhere Cool 🌍",
     currentlyLearning: ["Something Awesome 🔥"],
     lookingToCollaborateOn: "Innovative Projects 💡",
     askMeAbout: ["Code", "Games", "Tech"],
