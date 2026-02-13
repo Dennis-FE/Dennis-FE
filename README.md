@@ -59,16 +59,23 @@
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dennis-FE&theme=radical&hide_border=true)
 </div>
+
 ---
+
 ## 🏆 GitHub Trophies
+
 <div align="center">
   
   ![Trophies](https://github-profile-trophy.vercel.app/?username=Dennis-FE&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+
 </div>
+
 ---
+
 ## 📈 Contribution Graph
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dennis-FE&theme=react-dark&hide_border=true&area=true)
----
+
 ---
 <div align="center">
   
