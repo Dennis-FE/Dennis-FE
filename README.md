@@ -3,40 +3,54 @@
   
   <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Dennis-FE&color=blueviolet&style=flat-square&label=Profile+Views) -->
   
-  **[Your Tagline - e.g., Full-Stack Developer | Game Developer | AI Enthusiast]**
+  **[Full-Stack Developer | Game Developer | AI Enthusiast]**
 <!--   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR-LINKEDIN])
   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[YOUR-EMAIL])
   [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)]([YOUR-PORTFOLIO-URL]) -->
 </div>
 ---
+
 ## 🚀 About Me
+
 [Write 2-3 sentences about yourself, your passions, and what you're currently working on]
+
 - 🔭 I'm currently working on **[Current Project]**
 - 🌱 I'm currently learning **[Technologies/Skills]**
 - 👯 I'm looking to collaborate on **[Type of Projects]**
 - 💬 Ask me about **[Your Expertise Areas]**
 - 📫 How to reach me: **[your.email@example.com]**
 - ⚡ Fun fact: **[Something interesting about you]**
+
 ---
+
 ## 🛠️ Tech Stack
+
 ### Languages
+
 - TypeScript
 - JavaScript
 - Python
 - Java
+
 ### Backend & Databases
+
 - Node.js
 - MongoDB
+
 ### Game Development
+
 - Cocos Creator
 - Unity
+
 ### Tools & Platforms
+
 - Git
 - Docker
 - VS Code
 - Linux
 - Firebase
+
 ---
 ## 📊 GitHub Stats
 <div align="center">
