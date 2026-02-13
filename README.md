@@ -1,97 +1,105 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=DENNIS&fontSize=90&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Game%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descAlign=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0A2647,100:003366&height=280&section=header&text=TASK%20FORCE&fontSize=85&fontColor=C0C0C0&fontAlignY=38&desc=DEV%20RESPONSE%20TEAM&descSize=24&descAlignY=55&descAlign=50&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6AC1&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+Amazing+Things+%F0%9F%9A%80;Let's+Code+Together!+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00A8CC&center=true&vCenter=true&width=600&lines=OPERATIONAL+STATUS%3A+ACTIVE+%E2%9C%93;MISSION%3A+BUILD+%26+DEPLOY+%F0%9F%9A%80;READY+FOR+ACTION+%F0%9F%8E%AF)](https://git.io/typing-svg)
+
+<img src="https://img.shields.io/badge/TEAM-TASK%20FORCE-003366?style=for-the-badge&labelColor=0D1117&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDZWMTJDNCAE2Ljk3IDguMDMgMTkuODggMTIgMjJDMTUuOTcgMTkuODggMjAgMTYuOTcgMjAgMTJWNkwxMiAyWiIgZmlsbD0iIzAwQThDQyIvPjwvc3ZnPg==" alt="Task Force Badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 OPERATOR PROFILE
 
 ```typescript
-const dennis = {
-    currentTeam: "Task Force 🎯",
-    location: "Somewhere Cool 🌍",
-    currentlyLearning: ["Something Awesome 🔥"],
-    lookingToCollaborateOn: "Innovative Projects 💡",
-    askMeAbout: ["Code", "Games", "Tech"],
-    funFact: "Not Funny... But Definitely Interesting! 😎"
+const operator = {
+    callSign: "Dennis",
+    unit: "Task Force - Response Team 🛡️",
+    deployment: "Somewhere Classified 🌍",
+    specialization: ["Full-Stack Development", "Game Development", "AI Integration"],
+    currentMission: "Building Next-Gen Solutions �",
+    trainingFocus: ["Advanced Tech Stack", "System Architecture"],
+    commsChannel: "Discord Secure Line 📡",
+    motto: "Swift. Precise. Reliable."
 };
 ```
 
 <div align="center">
 
-### 📫 Let's Connect
+### � COMMUNICATIONS
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2JYBn5kP)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🗄️ Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🎮 Game Development
-
-![Cocos Creator](https://img.shields.io/badge/Cocos%20Creator-%2355C2E1.svg?style=for-the-badge&logo=cocos&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+[![Discord](https://img.shields.io/badge/SECURE_COMMS-Discord-003366?style=for-the-badge&logo=discord&logoColor=00A8CC&labelColor=0D1117)](https://discord.gg/2JYBn5kP)
+[![GitHub](https://img.shields.io/badge/OPERATIONS-GitHub-003366?style=for-the-badge&logo=github&logoColor=00A8CC&labelColor=0D1117)](https://github.com/Dennis-FE)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ TACTICAL LOADOUT
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dennis-FE&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6AC1&fire=FF6AC1&currStreakLabel=FF6AC1)
+### � PRIMARY WEAPONS (Languages)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-003366?style=for-the-badge&logo=typescript&logoColor=00A8CC&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-003366?style=for-the-badge&logo=javascript&logoColor=00A8CC&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-003366?style=for-the-badge&logo=python&logoColor=00A8CC&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-003366?style=for-the-badge&logo=openjdk&logoColor=00A8CC&labelColor=0D1117)
+
+### �️ SUPPORT SYSTEMS (Backend & Database)
+
+![Node.js](https://img.shields.io/badge/Node.js-003366?style=for-the-badge&logo=node.js&logoColor=00A8CC&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-003366?style=for-the-badge&logo=mongodb&logoColor=00A8CC&labelColor=0D1117)
+
+### 🎮 SPECIALIZED EQUIPMENT (Game Dev)
+
+![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-003366?style=for-the-badge&logo=cocos&logoColor=00A8CC&labelColor=0D1117)
+![Unity](https://img.shields.io/badge/Unity-003366?style=for-the-badge&logo=unity&logoColor=00A8CC&labelColor=0D1117)
+
+### � FIELD TOOLS (Platforms)
+
+![Git](https://img.shields.io/badge/Git-003366?style=for-the-badge&logo=git&logoColor=00A8CC&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-003366?style=for-the-badge&logo=docker&logoColor=00A8CC&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS_Code-003366?style=for-the-badge&logo=visualstudiocode&logoColor=00A8CC&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-003366?style=for-the-badge&logo=firebase&logoColor=00A8CC&labelColor=0D1117)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 MISSION STATISTICS
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dennis-FE&custom_title=Dennis's%20Contribution%20Graph&bg_color=0D1117&color=FF6AC1&line=FF6AC1&point=FFFFFF&area_color=FF6AC1&area=true&hide_border=true)
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dennis-FE&theme=dark&hide_border=true&border_radius=8&background=0D1117&stroke=003366&ring=00A8CC&fire=00A8CC&currStreakLabel=00A8CC&sideNums=C0C0C0&currStreakNum=00A8CC&sideLabels=8B8B8B&dates=8B8B8B)
+
+</div>
+
+---
+
+## 📈 ACTIVITY LOG
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dennis-FE&custom_title=Task%20Force%20Activity%20Log&bg_color=0D1117&color=00A8CC&line=003366&point=C0C0C0&area_color=003366&title_color=00A8CC&area=true&hide_border=false&border_color=003366)
 
 ---
 
 <div align="center">
 
-### 💭 Random Dev Quote
+### 💭 TACTICAL WISDOM
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border_color=003366)
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:003366,50:0A2647,100:001F3F&height=120&section=footer)
 
-**Made with ❤️ by [Dennis-FE](https://github.com/Dennis-FE)**
+**⚡ TASK FORCE RESPONSE TEAM ⚡**
 
-![Visitor Count](https://profile-counter.glitch.me/Dennis-FE/count.svg)
+*"Swift. Precise. Reliable."*
+
+[![Operators Online](https://profile-counter.glitch.me/Dennis-FE/count.svg?color=003366)](https://github.com/Dennis-FE)
+
+**[CLASSIFIED]** | Maintained by [Operator Dennis](https://github.com/Dennis-FE)
 
 </div>
