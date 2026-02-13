@@ -50,23 +50,12 @@
 - Firebase
 
 ---
+
 ## 📊 GitHub Stats
+
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dennis-FE&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-FE&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dennis-FE&theme=radical&hide_border=true)
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=Dennis-FE&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
